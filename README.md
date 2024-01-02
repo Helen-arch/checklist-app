@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+Task management app that enables users to create, organize, and track tasks with ability to save todos on server.
 
-To use this template click `Use this template`
+Technologies: TypeScript, React, SCSS, REST API
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+    - [DEMO LINK](https://helen-arch.github.io/checklist-app/)
