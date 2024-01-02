@@ -2,4 +2,4 @@ Task management app that enables users to create, organize, and track tasks with
 
 Technologies: TypeScript, React, SCSS, REST API
 
-    - [DEMO LINK](https://helen-arch.github.io/checklist-app/)
+    - [DEMO LINK](https://helen-arch.github.io/react_todo-app-with-api/)
